@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Denis's GitHub statistics](https://github-readme-stats.vercel.app/api?username=adv4000&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Repo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adv4000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Denis's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=adv4000&show_icons=true)](https://github.com/adv4000)
