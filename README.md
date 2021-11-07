@@ -1,4 +1,5 @@
-### Hi there I'am Denis Astahov 👋
+### Hi there I'am Denis Astahov 👋 Certified by AWS, Google Cloud, MicrosoftAzure, HashiCorp, LPI
+<img src="certificates.jpg">
 
 <!--
 **adv4000/adv4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
