@@ -1,4 +1,4 @@
-### Hi there I'am Denis Astahov 👋 Certified by AWS, Google Cloud, Microsoft, HashiCorp, LPI
+### Hi there, I'am Denis Astahov 👋 Certified by AWS, Google Cloud, Microsoft, HashiCorp, LPI
 <img src="certificates.jpg">
 
 <!--
